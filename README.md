@@ -17,17 +17,29 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 ## Rozkład jazdy sezonu 1
 
 15.02 S01E01: Marcin Młyński - "Kuluary organizowania hackathonu online na przykładzie Kombajn Game Jam 2021"
+
 22.02 S01E02: Małgorzata "Lost Soul" Szopa - "Jak to na Game Jamie było"
+
 01.03 S01E03: Łukasz "Dreat" Skotarek - "Środowisko pracy konsolowego wojownika"
+
 08.03 S01E04: Piotr Suwała - "Jak prowadzić i nie prowadzić swojego zespołu programistycznego"
+
 15.03 S01E05: Bogumił Bronk - "Szybkość wczytywania witryny internetowej na smartfonach. Dlaczego warto o to zadbać i jak to osiągnąć?"
+
 22.03 S01E06: Bart Kozal - "Rysuję, gram na pianinie, wspinam się i jestem tech leadem, czyli moje doświadczenia jak znaleźć więcej czasu."
+
 29.03 S01E07: Karolina Best - "Dlaczego nie zostałam programistką"
+
 12.04 S01E08: Mirosław Pałysiewicz - "Procesy w IT i projektach Agile"
+
 19.04 S01E09: Filip Małachowicz - "A gdyby tak używać kryptowalut na codzień?"
+
 26.04 S01E10: Michał "Odkurzacz" Gryko - "Programowanie dla nieprogramistów: Jak znaleźć radość w programowaniu kiedy nie masz o nim pojęcia?"
+
 10.05 S01E11: Magdalena "makneta" Rosłaniec - "Tech Twitter"
+
 17.05 S01E12: Kinga Marszałkowska - "Co robi brand ambassador Just Join IT?"
+
 24.05 S01E13 Temat: Wioletta Czuryńska "Od biegania do IT i własnej firmy. Czyli jak się przebranżowić po 40-tce"
 
 ## Zaproponuj temat lub prelegenta
@@ -36,4 +48,6 @@ Jest coś o czym chcesz posłuchać, a czego nie ma na naszej liście? Kliknij n
 
 ## Inne ciekawe imprezy
 
-Społęcznośc HS3 to także regularne spotkania przy kawie online, [live hacking](https://github.com/hs3city/live-hacking), Idea Squash, oraz inne spotkania. By być na bieżaco dołącz do nas na Discord:  <https://discord.gg/C7b4JNvw3a> i śledź profil na <https://www.meetup.com/hs3city> lub w mediach społecznościowych: <http://fb.me/hackerspacetrojmiasto>, <https://www.linkedin.com/company/hackerspace-tr%C3%B3jmiasto/>.
+Społęczność HS3 to także regularne spotkania przy kawie online, [live hacking](https://github.com/hs3city/live-hacking), Idea Squash, oraz inne spotkania.
+
+By być na bieżaco dołącz do nas na Discord:  <https://discord.gg/C7b4JNvw3a> i śledź profil na <https://www.meetup.com/hs3city> lub w mediach społecznościowych: <http://fb.me/hackerspacetrojmiasto>, <https://www.linkedin.com/company/hackerspace-tr%C3%B3jmiasto/>.
