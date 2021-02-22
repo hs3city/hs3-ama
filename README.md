@@ -40,7 +40,7 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 17.05 S01E12: Kinga Marszałkowska - "IT z innej strony: czym zajmuje się brand ambasador?"
 
-24.05 S01E13: Wioletta Czuryńska "Od biegania do IT i własnej firmy. Czyli jak się przebranżowić po 40-tce"
+24.05 S01E13: Wioletta Czuryńska - "Od biegania do IT i własnej firmy. Czyli jak się przebranżowić po 40-tce"
 
 ## Zaproponuj temat lub prelegenta
 
