@@ -1,16 +1,16 @@
 # HS3 AMA
 
-Nudzą Cię wydarzenia online które niczym nie róznią się od nagrań z YouTube? Bolą Cię oczy od ciągłego gapienia się w monitor? Zastanawiasz się jak ciekawie spędzić przerwę obiadową?
+Nudzą Cię wydarzenia online które niczym nie różnią się od nagrań z YouTube’a? Bolą Cię oczy od ciągłego gapienia się w monitor? Zastanawiasz się jak ciekawie spędzić przerwę obiadową?
 
-HS3 AMA to nowa seria spotkań która może przypaść Tobie do gustu.
+HS3 AMA to nowa seria spotkań, która może przypaść Ci do gustu.
 
 ## Czym jest HS3 AMA?
 
-HS3 AMA odbywa się w każdy poniedziałek o 13:30. Jest to 25 minutowe spotkanie odbywające się tylko głosowo. Możesz połączyć się z telefonu. Nie potrzebujesz ekranu. Możesz słuchać przy biurku, przy obiedzie lub w czasie podróży. I możesz wziąć udział w dyskusji. Bez konieczności pisania.
+HS3 AMA odbywa się w każdy poniedziałek o 13:30. Jest to 25 minutowe spotkanie głosowe, do którego możesz dołączyć za pośrednictwem telefonu. Nie potrzebujesz ekranu ani kamery, nie musisz zdejmować piżamy ani poprawiać fryzury. Możesz słuchać przy biurku, przy obiedzie lub w czasie podróży. Co najważniejsze, możesz wziąć udział w dyskusji bez konieczności pisania!
 
-Pierwsze 10 minut spotkania to krótka słowna prezentacja na wybrany temat (lista tematów sezonu pierwszego poniżej). Następne 15 minut przeznaczone jest na pytania i dyskusję. Sesje nie są nagrywane i nie będą nigdzie udostępniane.
+Pierwsze 10 minut spotkania to krótka, słowna prezentacja na wybrany temat (lista tematów sezonu pierwszego poniżej). Następne 15 minut przeznaczone jest na pytania i dyskusję. Sesje nie są nagrywane i nie będą nigdzie udostępniane więc nie bój się zadawać trudnych pytań!
 
-AMA to skrót od Ask Me Anything. Uczestnicy spotkania biorą udział w dyskusji i mogą zadawać pytania prowadzącym lub podzielić się swoją perspektywą.
+AMA to skrót od Ask Me Anything. Uczestnicy spotkania biorą udział w dyskusji i mogą zadawać pytania prowadzącym lub podzielić się swoją perspektywą. Jak podsumowała jedna z uczestniczek, HS3 AMA to "przerwa obiadowa z posiłkiem dla umysłu". Zapraszamy na kolejny szwedzki stół już w najbliższy poniedziałek!
 
 Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by wziąć udział: <https://discord.gg/C7b4JNvw3a>
 
@@ -38,9 +38,9 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 10.05 S01E11: Magdalena "makneta" Rosłaniec - "Tech Twitter"
 
-17.05 S01E12: Kinga Marszałkowska - "Co robi brand ambassador Just Join IT?"
+17.05 S01E12: Kinga Marszałkowska - "IT z innej strony: czym zajmuje się brand ambasador?"
 
-24.05 S01E13 Temat: Wioletta Czuryńska "Od biegania do IT i własnej firmy. Czyli jak się przebranżowić po 40-tce"
+24.05 S01E13: Wioletta Czuryńska "Od biegania do IT i własnej firmy. Czyli jak się przebranżowić po 40-tce"
 
 ## Zaproponuj temat lub prelegenta
 
