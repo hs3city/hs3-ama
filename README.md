@@ -28,9 +28,9 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 22.03 S01E06: Bart Kozal - "Rysuję, gram na pianinie, wspinam się i jestem tech leadem, czyli moje doświadczenia jak znaleźć więcej czasu."
 
-29.03 S01E07: Karolina Best - "Dlaczego nie zostałam programistką"
+29.03 S01E07: Mirosław Pałysiewicz - "Procesy w IT i projektach Agile"
 
-12.04 S01E08: Mirosław Pałysiewicz - "Procesy w IT i projektach Agile"
+12.04 S01E08: Karolina Best - "Dlaczego nie zostałam programistką"
 
 19.04 S01E09: Filip Małachowicz - "A gdyby tak używać kryptowalut na codzień?"
 
