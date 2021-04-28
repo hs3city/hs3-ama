@@ -42,6 +42,8 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 24.05 S01E13: Wioletta Czuryńska - "Od biegania do IT i własnej firmy. Czyli jak się przebranżowić po 40-tce"
 
+31.05 S01E14: Karolina Best - "Dlaczego nie zostałam programistką" (teraz już naprawdę)
+
 ## Zaproponuj temat lub prelegenta
 
 Jest coś o czym chcesz posłuchać, a czego nie ma na naszej liście? Kliknij na <https://github.com/hs3city/hs3-ama/issues/new> i napisz nam co Cię interesuje!
