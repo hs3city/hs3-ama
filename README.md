@@ -16,7 +16,7 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 ## Rozkład jazdy sezonu 1
 
-**Sezon pierwszy HS3 AMA odbywa się w każdy poniedziałek o 13:30. **
+**Sezon pierwszy HS3 AMA odbywa się w każdy poniedziałek o 13:30.**
 
 15.02 S01E01: Marcin Młyński - "Kuluary organizowania hackathonu online na przykładzie Kombajn Game Jam 2021"
 
