@@ -62,6 +62,8 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 14.07 S02E06: Paweł Stoworowicz - Lokalizacja strażaków czyli prawie success story pewnego projektu.
 
+21.07 S02E07: Karol Szczepański - Jak zmodyfikować swoją klawiaturę?
+
 ## Zaproponuj temat lub prelegenta
 
 Jest coś o czym chcesz posłuchać, a czego nie ma na naszej liście? Kliknij na <https://github.com/hs3city/hs3-ama/issues/new> i napisz nam co Cię interesuje!
