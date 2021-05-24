@@ -44,6 +44,20 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 31.05 S01E14: Karolina Best - "Dlaczego nie zostałam programistką" (teraz już naprawdę)
 
+## Rozkład jazdy sezonu 2
+
+09.06 S02E01: Tomasz Torcz – Zatrudniam do IT - na co zwracam uwagę?
+
+16.06 S02E02: Olle Pridiuksson - Is external GPU really a useful thing?
+
+23.06 S02E03: Alicja Musiał - TBD (kosmiczne)
+
+30.06 S02E04: Mateusz Bełczowski - Jak wyrobić sobie nawyk czytania książek?
+
+07.07 S02E05: Weronika Spaleniak - Co ma altMBA z MBA i jak wspiera współczesnych liderów?
+
+14.07 S02E06: Paweł Stoworowicz - Lokalizacja strażaków czyli prawie success story pewnego projektu.
+
 ## Zaproponuj temat lub prelegenta
 
 Jest coś o czym chcesz posłuchać, a czego nie ma na naszej liście? Kliknij na <https://github.com/hs3city/hs3-ama/issues/new> i napisz nam co Cię interesuje!
