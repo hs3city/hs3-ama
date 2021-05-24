@@ -6,7 +6,7 @@ HS3 AMA to nowa seria spotkań, która może przypaść Ci do gustu.
 
 ## Czym jest HS3 AMA?
 
-HS3 AMA odbywa się w każdy poniedziałek o 13:30. Jest to 25 minutowe spotkanie głosowe, do którego możesz dołączyć za pośrednictwem telefonu. Nie potrzebujesz ekranu ani kamery, nie musisz zdejmować piżamy ani poprawiać fryzury. Możesz słuchać przy biurku, przy obiedzie lub w czasie podróży. Co najważniejsze, możesz wziąć udział w dyskusji bez konieczności pisania!
+Jest to 25 minutowe spotkanie głosowe, do którego możesz dołączyć za pośrednictwem telefonu. Nie potrzebujesz ekranu ani kamery, nie musisz zdejmować piżamy ani poprawiać fryzury. Możesz słuchać przy biurku, przy obiedzie lub w czasie podróży. Co najważniejsze, możesz wziąć udział w dyskusji bez konieczności pisania!
 
 Pierwsze 10 minut spotkania to krótka, słowna prezentacja na wybrany temat (lista tematów sezonu pierwszego poniżej). Następne 15 minut przeznaczone jest na pytania i dyskusję. Sesje nie są nagrywane i nie będą nigdzie udostępniane więc nie bój się zadawać trudnych pytań!
 
@@ -15,6 +15,8 @@ AMA to skrót od Ask Me Anything. Uczestnicy spotkania biorą udział w dyskusji
 Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by wziąć udział: <https://discord.gg/C7b4JNvw3a>
 
 ## Rozkład jazdy sezonu 1
+
+**Sezon pierwszy HS3 AMA odbywa się w każdy poniedziałek o 13:30. **
 
 15.02 S01E01: Marcin Młyński - "Kuluary organizowania hackathonu online na przykładzie Kombajn Game Jam 2021"
 
@@ -45,6 +47,8 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 31.05 S01E14: Karolina Best - "Dlaczego nie zostałam programistką" (teraz już naprawdę)
 
 ## Rozkład jazdy sezonu 2
+
+**Sezon drugi HS3 AMA będzie odbywał się w każdą środę o 18:30.**
 
 09.06 S02E01: Tomasz Torcz – Zatrudniam do IT - na co zwracam uwagę?
 
