@@ -66,6 +66,8 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 28.07 S02E08: Piotrek Bodera - Jak to jest być Digital Nomadem w czasach pandemii?
 
+04.08 S02E09: Krzysztof Wrzałka - Hakerspace, Hackerbase, Hacker housing cooperative: Moje doświadczenia z bycia członkiem i cofunderem
+
 ## Zaproponuj temat lub prelegenta
 
 Jest coś o czym chcesz posłuchać, a czego nie ma na naszej liście? Kliknij na <https://github.com/hs3city/hs3-ama/issues/new> i napisz nam co Cię interesuje!
