@@ -22,7 +22,7 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 16.06 S02E02: Olle Pridiuksson - Is external GPU really a useful thing?
 
-23.06 S02E03: Alicja Musiał - TBD (kosmiczne)
+23.06 S02E03: Alicja Musiał - Czy w Polsce da się robić kosmos?
 
 30.06 S02E04: Mateusz Bełczowski - Jak wyrobić sobie nawyk czytania książek?
 
