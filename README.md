@@ -22,19 +22,19 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 16.06 S02E02: Olle Pridiuksson - Is external GPU really a useful thing?
 
-23.06 S02E03: Alicja Musiał - Czy w Polsce da się robić kosmos?
+30.06 S02E03: Mateusz Bełczowski - Jak wyrobić sobie nawyk czytania książek?
 
-30.06 S02E04: Mateusz Bełczowski - Jak wyrobić sobie nawyk czytania książek?
+07.07 S02E04: Weronika Spaleniak - Co ma altMBA z MBA i jak wspiera współczesnych liderów?
 
-07.07 S02E05: Weronika Spaleniak - Co ma altMBA z MBA i jak wspiera współczesnych liderów?
+14.07 S02E05: Paweł Stoworowicz - Lokalizacja strażaków czyli prawie success story pewnego projektu.
 
-14.07 S02E06: Paweł Stoworowicz - Lokalizacja strażaków czyli prawie success story pewnego projektu.
+21.07 S02E06: Karol Szczepański - Jak zmodyfikować swoją klawiaturę?
 
-21.07 S02E07: Karol Szczepański - Jak zmodyfikować swoją klawiaturę?
+28.07 S02E07: Piotrek Bodera - Jak to jest być Digital Nomadem w czasach pandemii?
 
-28.07 S02E08: Piotrek Bodera - Jak to jest być Digital Nomadem w czasach pandemii?
+04.08 S02E08: Krzysztof Wrzałka - Hakerspace, Hackerbase, Hacker housing cooperative: Moje doświadczenia z bycia członkiem i cofunderem
 
-04.08 S02E09: Krzysztof Wrzałka - Hakerspace, Hackerbase, Hacker housing cooperative: Moje doświadczenia z bycia członkiem i cofunderem
+11.08 S02E09: Alicja Musiał - Czy w Polsce da się robić kosmos?
 
 ## Zaproponuj temat lub prelegenta
 
