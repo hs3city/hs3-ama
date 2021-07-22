@@ -32,9 +32,9 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 28.07 S02E07: Piotrek Bodera - Jak to jest być Digital Nomadem w czasach pandemii?
 
-04.08 S02E08: Krzysztof Wrzałka - Hakerspace, Hackerbase, Hacker housing cooperative: Moje doświadczenia z bycia członkiem i cofunderem
+11.08 S02E08: Alicja Musiał - Czy w Polsce da się robić kosmos?
 
-11.08 S02E09: Alicja Musiał - Czy w Polsce da się robić kosmos?
+25.08 S02E09: Krzysztof Wrzałka - Hackerspace, Hackerbase, Hacker housing cooperative: Moje doświadczenia z bycia członkiem i cofunderem
 
 ## Zaproponuj temat lub prelegenta
 
