@@ -36,7 +36,7 @@ Spotkanie otwarte są dla naszej społeczności na Discord. Dołącz do nas by w
 
 11.08 S02E09: Alicja Musiał - Czy w Polsce da się robić kosmos?
 
-19.08 S02E10: Szymon Moliński - Geografia Zdrowia to nie tylko aktualna moda.
+18.08 S02E10: Szymon Moliński - Geografia Zdrowia to nie tylko aktualna moda.
 
 25.08 S02E011: Krzysztof Wrzałka - Hackerspace, Hackerbase, Hacker housing cooperative: Moje doświadczenia z bycia członkiem i cofunderem
 
